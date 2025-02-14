@@ -1,5 +1,4 @@
 function createCar(make, fuelLevel, engineOn) {
-  // To be implemented by you.
   return {
     make: make,
     fuelLevel: fuelLevel,
