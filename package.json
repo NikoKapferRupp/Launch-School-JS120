@@ -1,0 +1,27 @@
+{
+  "name": "launch-school-js120",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NikoKapferRupp/Launch-School-JS120.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NikoKapferRupp/Launch-School-JS120/issues"
+  },
+  "homepage": "https://github.com/NikoKapferRupp/Launch-School-JS120#readme",
+  "description": "",
+  "devDependencies": {
+    "@eslint/js": "^9.20.0",
+    "eslint": "^9.20.1",
+    "globals": "^15.15.0"
+  }
+}
